@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a1</folder>
+	<filename>p606.jpg</filename>
+	<path>E:\picture\a1\p606.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2643</xmin>
+			<ymin>2291</ymin>
+			<xmax>3365</xmax>
+			<ymax>3023</ymax>
+		</bndbox>
+	</object>
+</annotation>

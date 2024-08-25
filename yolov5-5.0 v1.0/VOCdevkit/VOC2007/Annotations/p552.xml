@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a1</folder>
+	<filename>p552.jpg</filename>
+	<path>E:\picture\a1\p552.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2584</xmin>
+			<ymin>2149</ymin>
+			<xmax>3268</xmax>
+			<ymax>2981</ymax>
+		</bndbox>
+	</object>
+</annotation>
