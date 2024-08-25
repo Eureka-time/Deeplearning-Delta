@@ -1,0 +1,2 @@
+import shuju
+shuju.kaishi()
